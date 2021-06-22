@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "ff_headers.h": "c",
+        "os_task.h": "c",
+        "freertostimeconfig.h": "c",
+        "ma_date_and_time.h": "c"
+    }
+}
